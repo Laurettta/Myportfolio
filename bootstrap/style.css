@@ -1,0 +1,16 @@
+#special-border {
+    border: thick solid blue !important;
+}
+
+.bg-pink {
+    background-color: pink !important;
+}
+
+.w-30 {
+    width: 30%;
+    
+}
+
+#wrapper {
+    height: 100vh;
+}
